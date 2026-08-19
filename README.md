@@ -1,360 +1,238 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050014,40:10002B,70:001F3F,100:00E5FF&text=SUBHAJIT%20DAS&fontColor=00E5FF&fontSize=60&fontAlignY=35&animation=twinkling"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=%5B+PLAYER+1+JOINED+THE+SERVER+%5D;%5B+BCA+AI+STUDENT+%5D;%5B+JAVA+%7C+PYTHON+%7C+WEB+DEVELOPER+%5D;%5B+AI+EXPLORER+%5D;%5B+DSA+WARRIOR+%5D;%5B+MISSION%3A+BECOME+A+BETTER+DEVELOPER+%5D" alt="Gaming Typing Animation"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020617,50:0f172a,100:06b6d4&text=SUBHAJIT%20DAS&fontColor=67e8f9&fontSize=55&fontAlignY=35&animation=twinkling"/>
 
 <br>
 
-<img src="https://media.giphy.com/media/L1R1TV3tXxYqJqj8vN/giphy.gif" width="600">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=850&lines=%3E_+Initializing+Developer+Profile...;%3E_+BCA+AI+Student+%F0%9F%8E%93;%3E_+Java+%7C+Python+%7C+Web+Developer;%3E_+Artificial+Intelligence+Explorer+%F0%9F%A4%96;%3E_+DSA+%26+Problem+Solving+%F0%9F%A7%A0;%3E_+System+Online+%E2%9C%85" alt="Animated Typing"/>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257469-2c6b3c67-6e7e-4f8d-8f1f-4f3c7c8c4d2e.gif" width="500">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🎮_PLAYER-SUBHAJIT-050014?style=for-the-badge&labelColor=050014&color=00E5FF">
-<img src="https://img.shields.io/badge/🟢_STATUS-ONLINE-050014?style=for-the-badge&labelColor=050014&color=00FF66">
-<img src="https://komarev.com/ghpvc/?username=Subhajit083&label=👁%20VISITORS&style=for-the-badge&color=7C3AED">
+<a href="https://github.com/Subhajit083">
+<img src="https://img.shields.io/badge/GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+<a href="https://www.linkedin.com/in/subhajit-das-15a699383">
+<img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Subhajit083&label=VISITORS&style=for-the-badge&color=0891b2">
 
 </div>
 
 ---
-
-# 🎮 PLAYER PROFILE
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    PLAYER CARD                              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  👤 PLAYER        : SUBHAJIT DAS                            ║
-║  🎓 CLASS         : BCA AI                                  ║
-║  🧬 TYPE          : DEVELOPER                               ║
-║  ⚔️ CLASS         : SOFTWARE / AI EXPLORER                  ║
-║  🌐 SERVER        : GITHUB                                  ║
-║  🟢 STATUS        : ONLINE                                  ║
-║                                                              ║
-║  ❤️ HP            : ████████████████████ 100%              ║
-║  ⚡ ENERGY        : ████████████████░░░░ 80%               ║
-║  🧠 KNOWLEDGE     : ██████████████░░░░░░ 70%               ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-# 🕹️ CHARACTER DESCRIPTION
 
 <div align="center">
 
-<img align="right" width="330" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+# ⚡ `SYSTEM ONLINE`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    DEVELOPER TERMINAL                      ║
+╠══════════════════════════════════════════════════════════════╣
+║  USER        →  Subhajit Das                               ║
+║  ROLE        →  BCA AI Student                             ║
+║  STATUS      →  Learning & Building 🚀                     ║
+║  SPECIALITY  →  Java • Python • Web • AI                  ║
+║  MISSION     →  Become a Better Developer Every Day        ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
-```text
-> Loading character...
+---
 
-[✓] BCA AI Student
-[✓] Java Developer
-[✓] Python Learner
-[✓] Web Developer
-[✓] DSA Player
-[✓] AI Explorer
+# 👨‍💻 `ABOUT_ME.exe`
 
-CURRENT MISSION:
+<img align="right" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-Learn → Build → Debug → Improve → Repeat
+```bash
+$ whoami
+
+Subhajit Das
+
+$ education
+
+BCA - Artificial Intelligence 🎓
+
+$ interests
+
+Java
+Python
+Web Development
+Artificial Intelligence
+Data Science
+Data Structures & Algorithms
+
+$ current_status
+
+Learning...
+Building...
+Improving... 🚀
 ```
 
 <br clear="right"/>
 
 ---
 
-# ⚔️ SKILL TREE
+# 🧠 `SKILL_MATRIX`
 
 <div align="center">
 
-### ☕ JAVA
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=7">
 
-<img src="https://skillicons.dev/icons?i=java">
+<br><br>
 
-`████████░░` 80 XP
-
-### 🐍 PYTHON
-
-<img src="https://skillicons.dev/icons?i=python">
-
-`███████░░░` 70 XP
-
-### 🌐 WEB
-
-<img src="https://skillicons.dev/icons?i=html,css,js">
-
-`████████░░` 80 XP
-
-### ⚛️ MERN
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb">
-
-`██████░░░░` 60 XP
-
-### 🤖 AI / ML
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow">
-
-`█████░░░░░` 50 XP
+<img src="https://img.shields.io/badge/Java-Intermediate-00E5FF?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Python-Intermediate-00E5FF?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-CSS-00E5FF?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-Learning-00E5FF?style=for-the-badge&logo=javascript&logoColor=white">
 
 </div>
 
 ---
 
-# 🧰 INVENTORY
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,jupyter&perline=7">
-
-</div>
-
----
-
-# 🎯 QUEST BOARD
-
-<details>
-<summary>🟢 <b>QUEST 01 — MASTER DSA</b></summary>
-
-<br>
-
-```text
-MISSION:
-Solve programming problems consistently.
-
-TARGET:
-████████████░░░░░░░░ 60%
-
-REWARDS:
-+100 XP
-+Problem Solving
-+Algorithm Knowledge
-```
-
-</details>
-
-<br>
-
-<details>
-<summary>🔵 <b>QUEST 02 — BUILD FULL STACK PROJECTS</b></summary>
-
-<br>
-
-```text
-MISSION:
-Build useful web applications.
-
-STACK:
-React + Node + Express + MongoDB
-
-TARGET:
-██████████░░░░░░░░░░ 50%
-
-REWARD:
-+250 XP
-+Full Stack Skill
-```
-
-</details>
-
-<br>
-
-<details>
-<summary>🟣 <b>QUEST 03 — ENTER THE AI WORLD</b></summary>
-
-<br>
-
-```text
-MISSION:
-Learn Artificial Intelligence & Machine Learning.
-
-TARGET:
-██████░░░░░░░░░░░░░░ 30%
-
-REWARD:
-+500 XP
-+AI Knowledge
-+Future Technology
-```
-
-</details>
-
----
-
-# 🏆 ACHIEVEMENT ROOM
-
-<div align="center">
-
-| Achievement                | Status         |
-| -------------------------- | -------------- |
-| 🎓 BCA AI Student          | 🟢 UNLOCKED    |
-| ☕ Java Learner             | 🟢 UNLOCKED    |
-| 🐍 Python Explorer         | 🟢 UNLOCKED    |
-| 🌐 Web Developer           | 🟢 UNLOCKED    |
-| 🧠 DSA Warrior             | 🟡 IN PROGRESS |
-| 🤖 AI Explorer             | 🟡 IN PROGRESS |
-| 🌍 Open Source Contributor | 🔒 LOCKED      |
-| 💼 Developer Internship    | 🔒 NEXT LEVEL  |
-
-</div>
-
----
-
-# 🕹️ PROJECT ARCADE
+# 🚀 `PROJECT_DATABASE`
 
 <div align="center">
 
 <a href="https://github.com/Subhajit083/MERN">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhajit083&repo=MERN&theme=radical&hide_border=true&bg_color=050014"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhajit083&repo=MERN&theme=tokyonight&hide_border=true&bg_color=020617"/>
 </a>
 
 <a href="https://github.com/Subhajit083/leetcode">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhajit083&repo=leetcode&theme=radical&hide_border=true&bg_color=050014"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhajit083&repo=leetcode&theme=tokyonight&hide_border=true&bg_color=020617"/>
 </a>
 
 <br>
 
 <a href="https://github.com/Subhajit083/Projects-works">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhajit083&repo=Projects-works&theme=radical&hide_border=true&bg_color=050014"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhajit083&repo=Projects-works&theme=tokyonight&hide_border=true&bg_color=020617"/>
 </a>
 
 <a href="https://github.com/Subhajit083/Jupyter-notebook">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhajit083&repo=Jupyter-notebook&theme=radical&hide_border=true&bg_color=050014"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhajit083&repo=Jupyter-notebook&theme=tokyonight&hide_border=true&bg_color=020617"/>
 </a>
 
 </div>
 
 ---
 
-# 🧩 GAME LEVELS
+# 🔍 `PROJECT_DETAILS`
 
 <details>
-<summary>🎮 LEVEL 01 — MERN</summary>
+<summary>🌐 <b>MERN</b> — Full Stack Development</summary>
 
-```text
-╔══════════════════════════════╗
-║       FULL STACK LEVEL       ║
-╠══════════════════════════════╣
-║ MongoDB                      ║
-║ Express.js                   ║
-║ React                        ║
-║ Node.js                      ║
-╠══════════════════════════════╣
-║ STATUS: ACTIVE               ║
-╚══════════════════════════════╝
-```
+<br>
 
-🔗 [🎮 ENTER LEVEL](https://github.com/Subhajit083/MERN)
+Exploring full-stack development using:
+
+`MongoDB` → `Express.js` → `React` → `Node.js`
+
+<a href="https://github.com/Subhajit083/MERN">
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-%2300E5FF?style=for-the-badge&logo=github&logoColor=black">
+</a>
 
 </details>
 
 <br>
 
 <details>
-<summary>⚔️ LEVEL 02 — LEETCODE</summary>
+<summary>☕ <b>LeetCode</b> — DSA & Problem Solving</summary>
 
-```text
-╔══════════════════════════════╗
-║       DSA BATTLE ARENA       ║
-╠══════════════════════════════╣
-║ Arrays                       ║
-║ Strings                      ║
-║ Linked Lists                 ║
-║ Searching                    ║
-║ Sorting                      ║
-║ Algorithms                   ║
-╠══════════════════════════════╣
-║ STATUS: GRINDING             ║
-╚══════════════════════════════╝
-```
+<br>
 
-🔗 [⚔️ ENTER BATTLE ARENA](https://github.com/Subhajit083/leetcode)
+My coding practice repository focused on improving:
+
+`Java` • `Arrays` • `Strings` • `Linked Lists` • `Sorting` • `Searching` • `Algorithms`
+
+<a href="https://github.com/Subhajit083/leetcode">
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-%2300E5FF?style=for-the-badge&logo=github&logoColor=black">
+</a>
 
 </details>
 
 <br>
 
 <details>
-<summary>🌐 LEVEL 03 — PROJECTS</summary>
+<summary>🌐 <b>Projects & Works</b> — Web Development</summary>
 
-```text
-╔══════════════════════════════╗
-║       PROJECT WORLD          ║
-╠══════════════════════════════╣
-║ HTML                         ║
-║ CSS                          ║
-║ JavaScript                   ║
-║ Web Projects                 ║
-╠══════════════════════════════╣
-║ STATUS: BUILDING             ║
-╚══════════════════════════════╝
-```
+<br>
 
-🔗 [🌐 ENTER PROJECT WORLD](https://github.com/Subhajit083/Projects-works)
+Web projects, experiments and development practice.
+
+<a href="https://github.com/Subhajit083/Projects-works">
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-%2300E5FF?style=for-the-badge&logo=github&logoColor=black">
+</a>
 
 </details>
 
 <br>
 
 <details>
-<summary>🐍 LEVEL 04 — PYTHON LAB</summary>
+<summary>🐍 <b>Jupyter Notebook</b> — Python & Data</summary>
 
-```text
-╔══════════════════════════════╗
-║        PYTHON LAB            ║
-╠══════════════════════════════╣
-║ Python                       ║
-║ Jupyter Notebook             ║
-║ Data Experiments             ║
-╠══════════════════════════════╣
-║ STATUS: EXPERIMENTING        ║
-╚══════════════════════════════╝
-```
+<br>
 
-🔗 [🐍 ENTER PYTHON LAB](https://github.com/Subhajit083/Jupyter-notebook)
+Python notebooks and practical experiments.
+
+<a href="https://github.com/Subhajit083/Jupyter-notebook">
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-%2300E5FF?style=for-the-badge&logo=github&logoColor=black">
+</a>
 
 </details>
 
 ---
 
-# 📊 PLAYER STATISTICS
+# 📊 `GITHUB_ANALYTICS`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Subhajit083&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=050014">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Subhajit083&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=22d3ee">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajit083&layout=compact&theme=radical&hide_border=true&bg_color=050014">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajit083&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee">
 
 </div>
 
 ---
 
-# 🔥 DAILY STREAK
+# 🔥 `CODING_STREAK`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Subhajit083&theme=radical&hide_border=true&background=050014&ring=00E5FF&fire=FF00FF&currStreakLabel=00E5FF">
+<img src="https://streak-stats.demolab.com/?user=Subhajit083&theme=dark&hide_border=true&background=020617&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE">
 
 </div>
 
 ---
 
-# 🏆 TROPHY ROOM
+# 🏆 `ACHIEVEMENTS`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Subhajit083&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4">
+<img src="https://github-profile-trophy.vercel.app/?username=Subhajit083&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4">
 
 </div>
 
 ---
 
-# 🐍 SNAKE ATTACK
+# 📈 `ACTIVITY_MONITOR`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhajit083&bg_color=020617&color=22d3ee&line=06b6d4&point=ffffff&area=true&hide_border=true">
+
+</div>
+
+---
+
+# 🐍 `CONTRIBUTION_SNAKE`
 
 <div align="center">
 
@@ -364,63 +242,59 @@ REWARD:
 
 ---
 
-# 👾 BOSS BATTLE
+# 🎯 `2026.exe`
 
-<div align="center">
+<details>
+<summary><b>🚀 Execute Roadmap</b></summary>
+
+<br>
 
 ```text
-                 👾 FINAL BOSS 👾
+[████████████████████] 100%  START
 
-              ┌─────────────────┐
-              │  PROCRASTINATION│
-              └────────┬────────┘
-                       │
-              HP ████████████████
-                       │
-              VS
-                       │
-              ┌────────▼────────┐
-              │    SUBHAJIT     │
-              │                 │
-              │  ☕ JAVA        │
-              │  🧠 DSA         │
-              │  🤖 AI          │
-              │  💻 CODE        │
-              └─────────────────┘
+        ↓
 
-                  ⚔️ FIGHTING ⚔️
+🧠 MASTER DSA
+        ↓
+☕ ADVANCE JAVA
+        ↓
+🌐 BUILD FULL STACK PROJECTS
+        ↓
+🐍 IMPROVE PYTHON
+        ↓
+🤖 LEARN AI / ML
+        ↓
+🌍 CONTRIBUTE TO OPEN SOURCE
+        ↓
+💼 PREPARE FOR INTERNSHIPS
 
-             [██████████░░] 85%
+[████████████████████] RUNNING...
 ```
 
-### 🏁 FINAL OBJECTIVE
-
-**Become a skilled Software & AI Developer 🚀**
-
-</div>
+</details>
 
 ---
 
-# 📡 DEVELOPER ACTIVITY
+# 💭 `DEVELOPER_LOG`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=%3E+Loading+next+mission...;%3E+Compiling+knowledge...;%3E+Defeating+bugs...;%3E+Gaining+XP...;%3E+Level+up!+%F0%9F%8E%AE" alt="Game Status">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=750&lines=Every+bug+is+a+lesson+%F0%9F%90%9B;Every+project+is+an+opportunity+%F0%9F%9A%80;Keep+learning.+Keep+building.;Consistency+%3E+Motivation" alt="Developer Log">
 
 </div>
 
 ---
 
-# 🌐 SOCIAL HUB
+# 🤝 `CONNECT.EXE`
 
 <div align="center">
 
 <a href="https://github.com/Subhajit083">
-<img src="https://img.shields.io/badge/🎮_GITHUB-PLAY-050014?style=for-the-badge&logo=github&logoColor=00E5FF">
+<img src="https://img.shields.io/badge/GITHUB-Subhajit083-020617?style=for-the-badge&logo=github&logoColor=22D3EE">
 </a>
 
 <a href="https://www.linkedin.com/in/subhajit-das-15a699383">
-<img src="https://img.shields.io/badge/💼_LINKEDIN-CONNECT-050014?style=for-the-badge&logo=linkedin&logoColor=00E5FF">
+<img src="https://img.shields.io/badge/LINKEDIN-Subhajit%20Das-020617?style=for-the-badge&logo=linkedin&logoColor=22D3EE">
 </a>
 
 </div>
@@ -429,16 +303,10 @@ REWARD:
 
 <div align="center">
 
-# 🎮 `GAME OVER?`
-
-### ❌ NEVER.
-
-### 🔥 `KEEP CODING.`
-
-### ⚡ `KEEP LEVELING UP.`
+## ⚡ `LEARN • CODE • BUILD • REPEAT`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00E5FF,40:001F3F,70:10002B,100:050014&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06b6d4,50:0f172a,100:020617&animation=twinkling">
 
 </div>
