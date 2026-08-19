@@ -1,228 +1,300 @@
 <div align="center">
 
-# 👋 Hi, I'm Subhajit Das
-
-### 🎓 BCA AI Student | 💻 Developer | 🤖 AI Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=BCA+AI+Student;Java+%7C+Python+Developer;Web+Development+Enthusiast;DSA+Learner;AI+%26+Data+Science+Explorer" alt="Typing SVG">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020617,50:0f172a,100:06b6d4&text=SUBHAJIT%20DAS&fontColor=67e8f9&fontSize=55&fontAlignY=35&animation=twinkling"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=850&lines=%3E_+Initializing+Developer+Profile...;%3E_+BCA+AI+Student+%F0%9F%8E%93;%3E_+Java+%7C+Python+%7C+Web+Developer;%3E_+Artificial+Intelligence+Explorer+%F0%9F%A4%96;%3E_+DSA+%26+Problem+Solving+%F0%9F%A7%A0;%3E_+System+Online+%E2%9C%85" alt="Animated Typing"/>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257469-2c6b3c67-6e7e-4f8d-8f1f-4f3c7c8c4d2e.gif" width="500">
+
+<br><br>
+
 <a href="https://github.com/Subhajit083">
-<img src="https://img.shields.io/badge/GitHub-Subhajit083-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 <a href="https://www.linkedin.com/in/subhajit-das-15a699383">
-<img src="https://img.shields.io/badge/LinkedIn-Subhajit%20Das-0A66C2?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Subhajit083&label=Profile%20Views&color=0e75b6&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=Subhajit083&label=VISITORS&style=for-the-badge&color=0891b2">
 
 </div>
 
 ---
-
-## 🧑‍💻 About Me
-
-🎓 I'm a **BCA AI student** passionate about technology and software development.
-
-💻 I enjoy programming and building practical projects.
-
-☕ Currently improving my **Java and DSA** skills.
-
-🐍 Exploring **Python and Data Science**.
-
-🌐 Learning **Web Development and MERN Stack**.
-
-🤖 Interested in **Artificial Intelligence and Machine Learning**.
-
-🚀 My goal is to continuously learn, build and improve.
-
----
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Programming
+# ⚡ `SYSTEM ONLINE`
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js">
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb">
-
-### 🧰 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter">
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    DEVELOPER TERMINAL                      ║
+╠══════════════════════════════════════════════════════════════╣
+║  USER        →  Subhajit Das                               ║
+║  ROLE        →  BCA AI Student                             ║
+║  STATUS      →  Learning & Building 🚀                     ║
+║  SPECIALITY  →  Java • Python • Web • AI                  ║
+║  MISSION     →  Become a Better Developer Every Day        ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 🚀 My Projects
+# 👨‍💻 `ABOUT_ME.exe`
 
-<table>
-<tr>
+<img align="right" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-<td width="50%" align="center">
+```bash
+$ whoami
 
-### 🌐 MERN
+Subhajit Das
 
-Full-stack web development project using the MERN stack.
+$ education
+
+BCA - Artificial Intelligence 🎓
+
+$ interests
+
+Java
+Python
+Web Development
+Artificial Intelligence
+Data Science
+Data Structures & Algorithms
+
+$ current_status
+
+Learning...
+Building...
+Improving... 🚀
+```
+
+<br clear="right"/>
+
+---
+
+# 🧠 `SKILL_MATRIX`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=7">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Java-Intermediate-00E5FF?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Python-Intermediate-00E5FF?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-CSS-00E5FF?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-Learning-00E5FF?style=for-the-badge&logo=javascript&logoColor=white">
+
+</div>
+
+---
+
+# 🚀 `PROJECT_DATABASE`
+
+<div align="center">
 
 <a href="https://github.com/Subhajit083/MERN">
-<img src="https://img.shields.io/badge/View%20Project-00BFFF?style=for-the-badge&logo=github">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhajit083&repo=MERN&theme=tokyonight&hide_border=true&bg_color=020617"/>
 </a>
-
-</td>
-
-<td width="50%" align="center">
-
-### ☕ LeetCode
-
-Java programming and DSA practice.
 
 <a href="https://github.com/Subhajit083/leetcode">
-<img src="https://img.shields.io/badge/View%20Project-00BFFF?style=for-the-badge&logo=github">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhajit083&repo=leetcode&theme=tokyonight&hide_border=true&bg_color=020617"/>
 </a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-### 🌐 Projects & Works
-
-Web development projects and experiments.
-
-<a href="https://github.com/Subhajit083/Projects-works">
-<img src="https://img.shields.io/badge/View%20Project-00BFFF?style=for-the-badge&logo=github">
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-### 🐍 Jupyter Notebook
-
-Python and notebook-based learning projects.
-
-<a href="https://github.com/Subhajit083/Jupyter-notebook">
-<img src="https://img.shields.io/badge/View%20Project-00BFFF?style=for-the-badge&logo=github">
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🧠 Currently Learning
-
-<div align="center">
-
-| Technology         | Progress  |
-| ------------------ | --------- |
-| ☕ Java             | 🟦🟦🟦🟦⬜ |
-| 🧠 DSA             | 🟦🟦🟦⬜⬜  |
-| 🌐 Web Development | 🟦🟦🟦🟦⬜ |
-| ⚛️ MERN            | 🟦🟦🟦⬜⬜  |
-| 🐍 Python          | 🟦🟦🟦⬜⬜  |
-| 🤖 AI/ML           | 🟦🟦⬜⬜⬜   |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Subhajit083&show_icons=true&theme=tokyonight&hide_border=true">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajit083&layout=compact&theme=tokyonight&hide_border=true">
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Subhajit083&theme=tokyonight&hide_border=true">
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Subhajit083&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6">
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Subhajit083/Subhajit083/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
-
-</div>
-
----
-
-## 🎯 2026 Goals
-
-<details>
-<summary><b>🚀 Click to see my goals</b></summary>
 
 <br>
 
-* 🧠 Master Data Structures & Algorithms
-* ☕ Improve Java programming
-* 🌐 Build full-stack applications
-* 🤖 Learn Artificial Intelligence
-* 📊 Improve Python and Data Science
-* 🚀 Build more real-world projects
-* 🌍 Contribute to Open Source
-* 💼 Prepare for internships and placements
+<a href="https://github.com/Subhajit083/Projects-works">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhajit083&repo=Projects-works&theme=tokyonight&hide_border=true&bg_color=020617"/>
+</a>
+
+<a href="https://github.com/Subhajit083/Jupyter-notebook">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhajit083&repo=Jupyter-notebook&theme=tokyonight&hide_border=true&bg_color=020617"/>
+</a>
+
+</div>
+
+---
+
+# 🔍 `PROJECT_DETAILS`
+
+<details>
+<summary>🌐 <b>MERN</b> — Full Stack Development</summary>
+
+<br>
+
+Exploring full-stack development using:
+
+`MongoDB` → `Express.js` → `React` → `Node.js`
+
+<a href="https://github.com/Subhajit083/MERN">
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-%2300E5FF?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</details>
+
+<br>
+
+<details>
+<summary>☕ <b>LeetCode</b> — DSA & Problem Solving</summary>
+
+<br>
+
+My coding practice repository focused on improving:
+
+`Java` • `Arrays` • `Strings` • `Linked Lists` • `Sorting` • `Searching` • `Algorithms`
+
+<a href="https://github.com/Subhajit083/leetcode">
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-%2300E5FF?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</details>
+
+<br>
+
+<details>
+<summary>🌐 <b>Projects & Works</b> — Web Development</summary>
+
+<br>
+
+Web projects, experiments and development practice.
+
+<a href="https://github.com/Subhajit083/Projects-works">
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-%2300E5FF?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</details>
+
+<br>
+
+<details>
+<summary>🐍 <b>Jupyter Notebook</b> — Python & Data</summary>
+
+<br>
+
+Python notebooks and practical experiments.
+
+<a href="https://github.com/Subhajit083/Jupyter-notebook">
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-%2300E5FF?style=for-the-badge&logo=github&logoColor=black">
+</a>
 
 </details>
 
 ---
 
-## 💡 My Developer Mindset
+# 📊 `GITHUB_ANALYTICS`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=00BFFF&center=true&vCenter=true&width=650&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Repeat;Consistency+beats+motivation;Every+project+is+a+new+lesson" alt="Developer Mindset">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Subhajit083&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=22d3ee">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajit083&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee">
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+# 🔥 `CODING_STREAK`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Subhajit083&theme=dark&hide_border=true&background=020617&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE">
+
+</div>
+
+---
+
+# 🏆 `ACHIEVEMENTS`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Subhajit083&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4">
+
+</div>
+
+---
+
+# 📈 `ACTIVITY_MONITOR`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhajit083&bg_color=020617&color=22d3ee&line=06b6d4&point=ffffff&area=true&hide_border=true">
+
+</div>
+
+---
+
+# 🐍 `CONTRIBUTION_SNAKE`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Subhajit083/Subhajit083/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
+
+</div>
+
+---
+
+# 🎯 `2026.exe`
+
+<details>
+<summary><b>🚀 Execute Roadmap</b></summary>
+
+<br>
+
+```text
+[████████████████████] 100%  START
+
+        ↓
+
+🧠 MASTER DSA
+        ↓
+☕ ADVANCE JAVA
+        ↓
+🌐 BUILD FULL STACK PROJECTS
+        ↓
+🐍 IMPROVE PYTHON
+        ↓
+🤖 LEARN AI / ML
+        ↓
+🌍 CONTRIBUTE TO OPEN SOURCE
+        ↓
+💼 PREPARE FOR INTERNSHIPS
+
+[████████████████████] RUNNING...
+```
+
+</details>
+
+---
+
+# 💭 `DEVELOPER_LOG`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=750&lines=Every+bug+is+a+lesson+%F0%9F%90%9B;Every+project+is+an+opportunity+%F0%9F%9A%80;Keep+learning.+Keep+building.;Consistency+%3E+Motivation" alt="Developer Log">
+
+</div>
+
+---
+
+# 🤝 `CONNECT.EXE`
 
 <div align="center">
 
 <a href="https://github.com/Subhajit083">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GITHUB-Subhajit083-020617?style=for-the-badge&logo=github&logoColor=22D3EE">
 </a>
 
 <a href="https://www.linkedin.com/in/subhajit-das-15a699383">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LINKEDIN-Subhajit%20Das-020617?style=for-the-badge&logo=linkedin&logoColor=22D3EE">
 </a>
 
 </div>
@@ -231,10 +303,10 @@ Python and notebook-based learning projects.
 
 <div align="center">
 
-### 🚀 Learn • Code • Build • Repeat
+## ⚡ `LEARN • CODE • BUILD • REPEAT`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0369A1,100:00BFFF&height=100&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06b6d4,50:0f172a,100:020617&animation=twinkling">
 
 </div>
