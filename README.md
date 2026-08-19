@@ -100,27 +100,110 @@ Improving... 🚀
 
 # 🚀 `PROJECT_DATABASE`
 
+# 🚀 `PROJECT_DATABASE`
+
 <div align="center">
 
-<a href="https://github.com/Subhajit083/MERN">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhajit083&repo=MERN&theme=tokyonight&hide_border=true&bg_color=020617"/>
-</a>
+<table>
+<tr>
 
-<a href="https://github.com/Subhajit083/leetcode">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhajit083&repo=leetcode&theme=tokyonight&hide_border=true&bg_color=020617"/>
-</a>
+<td align="center" width="50%">
+
+## 🌐 MERN
+
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" width="180">
+
+<br><br>
+
+**FULL STACK DEVELOPMENT**
 
 <br>
 
-<a href="https://github.com/Subhajit083/Projects-works">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhajit083&repo=Projects-works&theme=tokyonight&hide_border=true&bg_color=020617"/>
+`MongoDB` • `Express` • `React` • `Node.js`
+
+<br><br>
+
+<a href="https://github.com/Subhajit083/MERN">
+<img src="https://img.shields.io/badge/🎮%20PLAY%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black">
 </a>
+
+</td>
+
+<td align="center" width="50%">
+
+## ⚔️ LEETCODE
+
+<img src="https://skillicons.dev/icons?i=java" width="80">
+
+<br><br>
+
+**DSA BATTLE ARENA**
+
+<br>
+
+`Java` • `Arrays` • `Strings` • `Algorithms`
+
+<br><br>
+
+<a href="https://github.com/Subhajit083/leetcode">
+<img src="https://img.shields.io/badge/⚔️%20ENTER%20ARENA-00E5FF?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+## 🌐 PROJECTS & WORKS
+
+<img src="https://skillicons.dev/icons?i=html,css,js" width="150">
+
+<br><br>
+
+**WEB DEVELOPMENT WORLD**
+
+<br>
+
+`HTML` • `CSS` • `JavaScript`
+
+<br><br>
+
+<a href="https://github.com/Subhajit083/Projects-works">
+<img src="https://img.shields.io/badge/🌐%20ENTER%20WORLD-00E5FF?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+## 🐍 JUPYTER NOTEBOOK
+
+<img src="https://skillicons.dev/icons?i=python" width="80">
+
+<br><br>
+
+**PYTHON LAB**
+
+<br>
+
+`Python` • `Jupyter` • `Data`
+
+<br><br>
 
 <a href="https://github.com/Subhajit083/Jupyter-notebook">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhajit083&repo=Jupyter-notebook&theme=tokyonight&hide_border=true&bg_color=020617"/>
+<img src="https://img.shields.io/badge/🐍%20ENTER%20LAB-00E5FF?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
+</td>
+
+</tr>
+</table>
+
 </div>
+
 
 ---
 
@@ -188,19 +271,6 @@ Python notebooks and practical experiments.
 
 </details>
 
----
-
-# 📊 `GITHUB_ANALYTICS`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Subhajit083&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=22d3ee">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajit083&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee">
-
-</div>
-
----
 
 # 🔥 `CODING_STREAK`
 
@@ -210,17 +280,7 @@ Python notebooks and practical experiments.
 
 </div>
 
----
 
-# 🏆 `ACHIEVEMENTS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Subhajit083&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4">
-
-</div>
-
----
 
 # 📈 `ACTIVITY_MONITOR`
 
@@ -230,17 +290,6 @@ Python notebooks and practical experiments.
 
 </div>
 
----
-
-# 🐍 `CONTRIBUTION_SNAKE`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Subhajit083/Subhajit083/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
-
-</div>
-
----
 
 # 🎯 `2026.exe`
 
@@ -310,35 +359,5 @@ Python notebooks and practical experiments.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06b6d4,50:0f172a,100:020617&animation=twinkling">
 
 </div>
-.github/workflows/snake.yml
-name: Generate Contribution Snake
 
-on:
-schedule:
-- cron: "0 0 * * *"
-workflow_dispatch:
-
-permissions:
-contents: write
-
-jobs:
-generate:
-runs-on: ubuntu-latest
-
-```
-steps:
-  - name: Generate snake
-    uses: Platane/snk@v3
-    with:
-      github_user_name: Subhajit083
-      outputs: |
-        dist/github-contribution-grid-snake.svg
-        dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-  - name: Publish
-    uses: peaceiris/actions-gh-pages@v4
-    with:
-      github_token: ${{ secrets.GITHUB_TOKEN }}
-      publish_dir: ./dist
-```
 
