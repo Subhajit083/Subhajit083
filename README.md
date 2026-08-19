@@ -100,8 +100,6 @@ Improving... 🚀
 
 # 🚀 `PROJECT_DATABASE`
 
-# 🚀 `PROJECT_DATABASE`
-
 <div align="center">
 
 <table>
@@ -204,73 +202,7 @@ Improving... 🚀
 
 </div>
 
-
 ---
-
-# 🔍 `PROJECT_DETAILS`
-
-<details>
-<summary>🌐 <b>MERN</b> — Full Stack Development</summary>
-
-<br>
-
-Exploring full-stack development using:
-
-`MongoDB` → `Express.js` → `React` → `Node.js`
-
-<a href="https://github.com/Subhajit083/MERN">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-%2300E5FF?style=for-the-badge&logo=github&logoColor=black">
-</a>
-
-</details>
-
-<br>
-
-<details>
-<summary>☕ <b>LeetCode</b> — DSA & Problem Solving</summary>
-
-<br>
-
-My coding practice repository focused on improving:
-
-`Java` • `Arrays` • `Strings` • `Linked Lists` • `Sorting` • `Searching` • `Algorithms`
-
-<a href="https://github.com/Subhajit083/leetcode">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-%2300E5FF?style=for-the-badge&logo=github&logoColor=black">
-</a>
-
-</details>
-
-<br>
-
-<details>
-<summary>🌐 <b>Projects & Works</b> — Web Development</summary>
-
-<br>
-
-Web projects, experiments and development practice.
-
-<a href="https://github.com/Subhajit083/Projects-works">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-%2300E5FF?style=for-the-badge&logo=github&logoColor=black">
-</a>
-
-</details>
-
-<br>
-
-<details>
-<summary>🐍 <b>Jupyter Notebook</b> — Python & Data</summary>
-
-<br>
-
-Python notebooks and practical experiments.
-
-<a href="https://github.com/Subhajit083/Jupyter-notebook">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-%2300E5FF?style=for-the-badge&logo=github&logoColor=black">
-</a>
-
-</details>
-
 
 # 🔥 `CODING_STREAK`
 
