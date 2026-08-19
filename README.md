@@ -310,3 +310,35 @@ Python notebooks and practical experiments.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06b6d4,50:0f172a,100:020617&animation=twinkling">
 
 </div>
+.github/workflows/snake.yml
+name: Generate Contribution Snake
+
+on:
+schedule:
+- cron: "0 0 * * *"
+workflow_dispatch:
+
+permissions:
+contents: write
+
+jobs:
+generate:
+runs-on: ubuntu-latest
+
+```
+steps:
+  - name: Generate snake
+    uses: Platane/snk@v3
+    with:
+      github_user_name: Subhajit083
+      outputs: |
+        dist/github-contribution-grid-snake.svg
+        dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+  - name: Publish
+    uses: peaceiris/actions-gh-pages@v4
+    with:
+      github_token: ${{ secrets.GITHUB_TOKEN }}
+      publish_dir: ./dist
+```
+
